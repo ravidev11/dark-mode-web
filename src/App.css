@@ -1,0 +1,31 @@
+.btn btn-primary
+{
+  color: pink;
+}
+
+
+
+
+.faMoon{
+  float: right;
+}
+.btn-button{
+  float: right;
+  background-color:pink;
+  color: white;
+  width: 130px;
+  height: 40px;
+  margin: 2px;
+}
+.button1{
+  float: right;
+  background-color:purple;
+  color: white;
+  width: 130px;
+  height: 40px;
+  margin: 2px;
+}
+
+
+
+
